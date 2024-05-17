@@ -1,0 +1,94 @@
+
+body{
+    background-color: lightgray;
+    font-family:monospace; 
+    font-size: 18px;
+}
+
+.tank {
+    border: 2px solid  rgb(117, 116, 116);
+}
+
+.dam {
+    border: 2px solid #bfbfbf;
+}
+
+.very_dam {
+    border: 2px solid #bfbfbf;
+    color: green;
+}
+
+.o_dam {
+    border: 2px solid #bfbfbf;
+    color: red;
+}
+
+.suv {
+     border: 2px solid #8c8c8c;
+}
+
+.suv_ver {
+    border: 2px solid #8c8c8c;
+    color: green;
+}
+
+.o_suv {
+    border: 2px solid #8c8c8c;
+    color: red;
+}
+
+.mb {
+     border: 2px solid #666666;
+}
+
+.ver_mb {
+    border: 2px solid #666666;
+    color: green;
+}
+
+.o_mb {
+    border: 2px solid #666666;
+    color: red;
+}
+
+.he{
+     border: 2px solid #333333;
+}
+
+.ver_he {
+    border: 2px solid #333333;
+    color: green;
+}
+
+.o_he {
+    border: 2px solid #333333;
+    color: red;
+}
+
+.sp {
+     border: 2px solid #000000;
+}
+
+.ver_sp {
+    border: 2px solid #000000;
+    color: green;
+}
+
+.o_sp {
+    border: 2px solid #000000;
+    color: red;
+}
+table {
+    border-collapse: collapse;
+}
+
+a {
+    text-align: left;
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+}
