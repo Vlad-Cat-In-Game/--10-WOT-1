@@ -1,0 +1,90 @@
+body {
+    background-color: lightgray;
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+b {
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+    font-family: 25px;
+}
+
+p {
+    border: 3px solid gray;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    border: dotted gray;
+    text-align: center;
+}
+
+.tank {
+    border: 2px solid  rgb(117, 116, 116);
+    background-color: ;
+}
+
+.dam {
+    border: 2px solid #bfbfbf;
+}
+
+.very_dam {
+    border: 2px solid #bfbfbf;
+    color: green;
+}
+
+.suv {
+     border: 2px solid #8c8c8c;
+}
+
+.suv_ver {
+    border: 2px solid #8c8c8c;
+    color: green;
+}
+
+.mb {
+     border: 2px solid #666666;
+}
+
+.ver_mb {
+    border: 2px solid #666666;
+    color: green;
+}
+
+.he{
+     border: 2px solid #333333;
+}
+
+.ver_he {
+    border: 2px solid #333333;
+    color: green;
+}
+
+.sp {
+     border: 2px solid #000000;
+}
+
+.ver_sp {
+    border: 2px solid #000000;
+    color: green;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    background-color: darkgrey;
+    color: black;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid black;
+}
